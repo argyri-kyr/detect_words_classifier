@@ -1,0 +1,9 @@
+librosa
+numpy
+pandas
+scikit-learn
+joblib
+tqdm
+matplotlib
+
+//pip install -r requirements.txt
